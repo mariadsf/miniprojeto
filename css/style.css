@@ -1,0 +1,49 @@
+body {
+    background-color: hsl(230, 30%, 59%);
+  }
+  h1 {
+    background-color: #f1e23b;
+  }
+  h2 {
+    background-color: hsl(60, 2%, 66%);
+  }
+  img {
+    width: 600px;
+  }
+  button {
+    background-color: #f1e23b;
+    color: rgb(148, 82, 82);
+    padding: 15px 25px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.4s;
+  }
+  .img2 {
+    width: 400px;
+  }
+  .container {
+    text-align: center;
+  }
+  
+  .container img {
+    width: 500px;
+    margin-right: 20px; /* Ajuste conforme necessário */
+  }
+  .Dragons {
+    width: 300px;
+  }
+  img3 {
+    width: 300px;
+  }
+  img6 {
+    width: 200px;
+  }
+  .album img {
+    max-width: 150px; /* Máxima largura da imagem */
+    height: auto; /* Mantém a proporção */
+    margin-right: 20px;
+    border-radius: 50%; /* Imagem redonda */
+  }
+  
